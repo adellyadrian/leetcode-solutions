@@ -8,6 +8,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0001-two-sum](https://github.com/adellyadrian/leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0067-add-binary](https://github.com/adellyadrian/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adellyadrian/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/adellyadrian/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0179-largest-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/adellyadrian/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
