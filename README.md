@@ -45,4 +45,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adellyadrian/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adellyadrian/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
