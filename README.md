@@ -19,6 +19,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0009-palindrome-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adellyadrian/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/adellyadrian/leetcode-solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/adellyadrian/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0058-length-of-last-word](https://github.com/adellyadrian/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/adellyadrian/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adellyadrian/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/adellyadrian/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
 | ------- |
