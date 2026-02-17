@@ -58,6 +58,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0183-customers-who-never-order](https://github.com/adellyadrian/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/adellyadrian/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/adellyadrian/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/adellyadrian/leetcode-solutions/tree/master/0577-employee-bonus) |
 ## Greedy
 |  |
 | ------- |
