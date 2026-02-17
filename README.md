@@ -7,6 +7,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adellyadrian/leetcode-solutions/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/adellyadrian/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
