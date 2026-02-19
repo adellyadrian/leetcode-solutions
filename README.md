@@ -15,6 +15,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0001-two-sum](https://github.com/adellyadrian/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/adellyadrian/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/adellyadrian/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0013-roman-to-integer](https://github.com/adellyadrian/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/adellyadrian/leetcode-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/adellyadrian/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/adellyadrian/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
