@@ -10,6 +10,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0136-single-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/adellyadrian/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/adellyadrian/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0125-valid-palindrome](https://github.com/adellyadrian/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/adellyadrian/leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/adellyadrian/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Database
 |  |
 | ------- |
